@@ -1,0 +1,23 @@
+export const Colors = {
+  Primary: '#005D4D',
+  secondary: '#F6F8FE',
+  SuccessAlert: '#00C566',
+  ErrorAlert: '#E53935',
+  WarningAlert: '#FACC15',
+  White: '#FEFEFE',
+  Borderline: '#E3E7EC',
+  DarkLine: '#282837',
+  Black: '#111111',
+  Gray: '#FDFDFD',
+  Gray20: '#ECF1F6',
+  Gray30: '#E3E9ED',
+  Gray40: '#D1D8DD',
+  Gray50: '#BFC6CC',
+  Gray60: '#9CA4AB',
+  Gray70: '#78828A',
+  Gray80: '#66707A',
+  Gray90: '#434E58',
+  Gray100: '#171725',
+  TextColor: '#171725',
+  GrayScale : '#6C6C6C'
+};
